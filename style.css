@@ -1,0 +1,19 @@
+.profile-image{
+    height: 300px;
+    width:300px;
+    border-radius: 100%;
+    /* text-align: center; */
+}
+.waving-hand{
+    height :100px;
+    width : 100px;
+}
+.box{
+    width: 500px;
+    /* border: 1px solid black; */
+    margin: auto;
+
+}
+.image{
+text-align: center;
+}
